@@ -1,0 +1,58 @@
+Paypal account: akhodary@gmail.com
+title : Building formbuilder like formbuilder.online and making the prototype (Marian's work)
+Price:  $20/hr * 60 = $1200
+
+
+Payoneer account to send: akhodary@gmail.com
+Payoneer account to use:  yuanbao68@hotmail.com
+title : Building formbuilder like formbuilder.online and making the prototype (Marian's work)
+Price:  $1200
+Client Name: Ahmed Elkhodary
+Country and state: US Texas
+
+Payoneer account to send: akhodary@gmail.com
+Payoneer account to use:  ll19920222@outlook.com
+title : Building formbuilder like formbuilder.online and making the prototype (Marian's work)
+Price:  $3000
+Client Name: Ahmed Elkhodary
+Country and state: US Texas
+
+Content: 
+
+- Completed formbuilder part of React Native app.
+-------------------------------------------------------------------
+- Added manager role for the form builder
+- Updated the form builder UI
+- Converted the form builder app into npm package
+-------------------------------------------------------------------
+- Build the form render npm package
+- Add customization function to form builder and form render
+- Update user role in form builder
+-------------------------------------------------------------------
+- Complete the user role in TForm.
+- Review, update and post the source code in Github
+- Implementing the home screen with web chart
+-------------------------------------------------------------------
+- Add 4 charts to TForm(LineChart, BarChart, PieChart, Webchart) 
+- Add customization functions to 4 chart fields
+-------------------------------------------------------------------
+- Add the role functions to 4 charts
+- Implement dynamic roles and add TApp screen
+- Add the geolocation picker field to TForm
+-------------------------------------------------------------------
+- Add map and calendar widgets to TForm
+-------------------------------------------------------------------
+- Working on Bitmap widget and multitab fields(50%)
+- Implement the local test environment for demo
+- Add dark mode to TForm
+- Testing and fixing some issues and building Apk for demo
+-------------------------------------------------------------------
+- Add types for fields to datatable input field
+- Add bulk file upload function to file upload field
+- Add resort function to TForm
+- Add combobox field
+- Working on adding the multiple form navigation bar
+-------------------------------------------------------------------
+- Update rule actions for all fields in form builder
+- Publish npm package(react-native-tform-builder) and fix some issues
+-------------------------------------------------------------------
